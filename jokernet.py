@@ -148,8 +148,6 @@ banner =  """
 \033[35m                    ╚════════════════════════════════════════╝
 """
 
-cookie = open(".joker_cookie","w+")
-
 fsubs = -1024
 tpings = -1024
 pscans = -1024
